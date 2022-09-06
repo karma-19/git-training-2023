@@ -4,5 +4,5 @@
 - abhishek 
 
 # Trainees
-- Abhishek Dhule
 - Praveen Vishwakarma
+- Abhishek Dhule web dev
